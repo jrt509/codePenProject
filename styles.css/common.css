@@ -1,0 +1,161 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.header {
+    height: 70px;
+    width: 100%;
+
+}
+
+.header-wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header > .header-wrapper > .logo {
+    height: 80px;
+    width: 100px;
+
+}
+
+.header > .header-wrapper > .logo img {
+    height: 30px;
+    width: 200px;
+    padding-top: 10px;
+}
+.header > .header-wrapper > .nav-wrapper > .center-column1 {
+   color: khaki;
+    font-size: 15px;
+    padding-top: 1px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    text-transform: uppercase;
+
+}
+.header > .header-wrapper > .nav-wrapper > .center-column-main  {
+    display: flex;
+    justify-content: center;
+    font-size: 16px;
+    font-family: sans-serif;
+    padding-left: 2px;
+         
+}
+
+.header > .header-wrapper > .nav-wrapper > .center-column-main > .nav-btn a {
+    display: flex;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    padding-left: 4px;
+    padding-right: 10px;
+    text-decoration: none;
+    color: white;  
+    
+}
+
+.header > .header-wrapper > .nav-wrapper > .center-column-main > .spark-toggle > .spark-toggle-btn {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: lightgray;
+    font-size: 20px;
+    border: none;
+    padding-left: 10px;
+
+    
+}
+.header > .header-wrapper > .nav-wrapper > .center-column-main > .spark-toggle > .spark-toggle-btn i {
+    background-color: black;
+    color: #d3d3d3;
+    font-size: 16px;
+    border: none; 
+    padding-left: 15px;
+    padding-top: 5px;
+}
+  
+    
+.header > .header-wrapper > .header-buttons  {
+    display: flex;
+    justify-content: center;
+    align-content: center;    
+
+}
+.header > .header-wrapper > .header-buttons > .head-button {
+    height: 80px;
+    width: 120px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+}
+.header > .header-wrapper > .header-buttons > .head-button > .btn {
+    height: 50px;
+    width: 110px;
+    font-size: 20px;
+    background-color: #3E424B;
+    color: white;
+    text-decoration: none;
+    border: none;
+    border-radius: .2em;
+
+
+
+
+}
+
+.header > .header-wrapper > .header-buttons > .head-button > .btn i {
+    color: #32CD32;
+    font-size: 20px;
+
+
+}
+.header > .header-wrapper > .header-buttons > .search-img > .searchBtn {
+    background-color: black;
+    color: grey;
+    height: 60px;
+    width: 60px;
+    border: none;
+}
+
+.header > .header-wrapper > .header-buttons > .search-img > .searchBtn i {
+    font-size: 32px;
+    padding-bottom: 5px;
+    
+
+    
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
